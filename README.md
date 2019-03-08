@@ -9,5 +9,5 @@
  - springcloud学习第七章：网关gateway  
  
  
- - **欢迎关注 沟通交流  
+ - **欢迎关注 沟通交流** 
 ![把代码写成诗](http://tongxingzhetest-1252097407.cossh.myqcloud.com/qrcode_for_gh_33cfe18bd0cb_258.jpg) 
