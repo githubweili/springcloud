@@ -7,6 +7,8 @@
  - [springcloud学习第四章：服务调用feign]( https://www.jianshu.com/p/08479041a92a) 
  - [springcloud学习第六章：网关zuul]( https://www.jianshu.com/p/578eb80fc772) 
  - springcloud学习第七章：网关gateway  
+ - springcloud学习第八章：配置中心config  
+ - springcloud学习第七章：消息总线bus  
  
    
 	**欢迎关注 沟通交流**  
