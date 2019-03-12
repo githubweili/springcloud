@@ -1,13 +1,13 @@
-# °Ñ´úÂëĞ´³ÉÊ«ÏµÁĞ--springcloudÑ§Ï°×ÊÁÏ
+# æŠŠä»£ç å†™æˆè¯—ç³»åˆ—--springcloudå­¦ä¹ èµ„æ–™
   
- - [springcloudÑ§Ï°µÚÒ»ÕÂ£ºÎ¢·şÎñµÄÀí½â ](https://www.jianshu.com/p/9611a30651d0)  
- - [springcloudÑ§Ï°µÚ¶şÕÂ£º·şÎñÖÎÀíÖĞĞÄeureka ]( https://www.jianshu.com/p/4270559df18e)  
- - springcloudÑ§Ï°µÚÈıÕÂ£º·şÎñµ÷ÓÃribbon  
- - springcloudÑ§Ï°µÚËÄÕÂ£º·şÎñµ÷ÓÃfeign  
- - springcloudÑ§Ï°µÚÎåÕÂ£ºÈÛ¶ÏÆ÷hystrix  
- - springcloudÑ§Ï°µÚÁùÕÂ£ºÍø¹Øzuul  
- - springcloudÑ§Ï°µÚÆßÕÂ£ºÍø¹Øgateway  
+ - [springcloudå­¦ä¹ ç¬¬ä¸€ç« ï¼šå¾®æœåŠ¡çš„ç†è§£ ](https://www.jianshu.com/p/9611a30651d0)  
+ - [springcloudå­¦ä¹ ç¬¬äºŒç« ï¼šæœåŠ¡æ²»ç†ä¸­å¿ƒeureka ]( https://www.jianshu.com/p/4270559df18e)  
+ - [springcloudå­¦ä¹ ç¬¬ä¸‰ç« ï¼šè´Ÿè½½å‡è¡¡å™¨ribbon]( https://www.jianshu.com/p/a7b028feb12b)  
+ - [springcloudå­¦ä¹ ç¬¬å››ç« ï¼šæœåŠ¡è°ƒç”¨feign]( https://www.jianshu.com/p/08479041a92a) 
+ - springcloudå­¦ä¹ ç¬¬äº”ç« ï¼šç†”æ–­å™¨hystrix  
+ - springcloudå­¦ä¹ ç¬¬å…­ç« ï¼šç½‘å…³zuul  
+ - springcloudå­¦ä¹ ç¬¬ä¸ƒç« ï¼šç½‘å…³gateway  
  
    
-	**»¶Ó­¹Ø×¢ ¹µÍ¨½»Á÷**  
-![°Ñ´úÂëĞ´³ÉÊ«](http://tongxingzhetest-1252097407.cossh.myqcloud.com/qrcode_for_gh_33cfe18bd0cb_258.jpg) 
+	**æ¬¢è¿å…³æ³¨ æ²Ÿé€šäº¤æµ**  
+![æŠŠä»£ç å†™æˆè¯—](http://tongxingzhetest-1252097407.cossh.myqcloud.com/qrcode_for_gh_33cfe18bd0cb_258.jpg) 
