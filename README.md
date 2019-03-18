@@ -6,10 +6,9 @@
  - [springcloud学习第五章：熔断器hystrix]( https://www.jianshu.com/p/20eb27e5e123)
  - [springcloud学习第四章：服务调用feign]( https://www.jianshu.com/p/08479041a92a) 
  - [springcloud学习第六章：网关zuul]( https://www.jianshu.com/p/578eb80fc772) 
- - springcloud学习第七章：网关gateway  
- - springcloud学习第八章：配置中心config  
- - springcloud学习第九章：消息总线bus  
+ - [springcloud学习第七章：网关gateway](https://www.jianshu.com/p/7885ca0bc228) 
+ - [springcloud学习第八章：配置中心config](https://www.jianshu.com/p/08cb5544f1b4)  
+
  
-   
 	**欢迎关注 沟通交流**  
 ![把代码写成诗](http://tongxingzhetest-1252097407.cossh.myqcloud.com/qrcode_for_gh_33cfe18bd0cb_258.jpg) 
