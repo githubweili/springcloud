@@ -8,7 +8,8 @@
  - [springcloud学习第六章：网关zuul]( https://www.jianshu.com/p/578eb80fc772) 
  - [springcloud学习第七章：网关gateway](https://www.jianshu.com/p/7885ca0bc228) 
  - [springcloud学习第八章：配置中心config](https://www.jianshu.com/p/08cb5544f1b4)  
-
+ - [springcloud学习第九章：配置中心config集群](https://www.jianshu.com/p/08cb5544f1b4)  
+ - [springcloud学习第十章：服务治理中心eureka集群](https://www.jianshu.com/p/08cb5544f1b4)  
  
 	**欢迎关注 沟通交流**  
 ![把代码写成诗](http://tongxingzhetest-1252097407.cossh.myqcloud.com/qrcode_for_gh_33cfe18bd0cb_258.jpg) 
