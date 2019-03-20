@@ -35,7 +35,7 @@ public class MyFilter extends ZuulFilter{
     public Object run() throws ZuulException {
         RequestContext requestContext = RequestContext.getCurrentContext();
         HttpServletResponse response = requestContext.getResponse();
-        response.setHeader("haader", "test");
+        response.setHeader("header", "test");
         return null;
     }
 }

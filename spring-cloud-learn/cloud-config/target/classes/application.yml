@@ -1,0 +1,17 @@
+server:
+  port: 8889
+
+spring:
+  application:
+    name: cloud-config
+  cloud:
+      config:
+        server:
+          git:
+            uri: https://github.com/githubweili/cloud-config
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8081/eureka/
+

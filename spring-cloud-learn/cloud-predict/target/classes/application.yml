@@ -1,0 +1,17 @@
+server:
+  port: 8080
+spring:
+  profiles:
+    active: header_route
+
+---
+spring:
+  cloud:
+    gateway:
+
+      routes:
+      - id: header_route
+        uri: http://localhost:8085/hello
+        predicates:
+        - Header=X-Request-Id, \d+
+  profiles: header_route
