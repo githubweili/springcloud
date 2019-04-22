@@ -14,5 +14,6 @@
  
  # 把代码写成诗系列--高可用
   - [lvs+keepalived+nginx高可用主从热备 ](https://www.jianshu.com/p/9e3f3c96ac40)  
+  - [一次支付回调的优化](https://www.jianshu.com/p/a9cb3c078a87)  
 	**欢迎关注 沟通交流**  
 ![把代码写成诗](http://tongxingzhetest-1252097407.cossh.myqcloud.com/qrcode_for_gh_33cfe18bd0cb_258.jpg) 
